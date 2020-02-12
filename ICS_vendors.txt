@@ -1,0 +1,314 @@
+360 Systems
+3B Medical
+3S-Smart Software Solutions
+7-Technologies
+ABB
+Abbott Laboratories
+Accuenergy
+Adcon Telemetry
+Advantech
+Advantech B+B SmartWorx
+AGG Software
+Alstom
+American Auto-Matrix
+AMTELCO
+Animas
+Arbiter Systems
+ARC Informatique
+ATI Systems
+Automated Logic Corporation
+Automated Solutions
+AutomationDirect
+AVEVA
+AzeoTech
+B. Braun Medical Inc.
+B+B SmartWorx
+Baxter
+BeaconMedaes
+Beckhoff
+Beckwith Electric
+"Becton, Dickinson and Company (BD)"
+Beijer Electronics
+Belden
+BINOM3
+Biosense Webster
+Black Box
+BLF-Tech LLC
+BMC Medical
+Boston Scientific
+C3-ilex
+CA Technologies
+Cambium Networks
+"Canary Labs, Inc."
+CareFusion
+CAREL
+Carestream
+Carlo Gavazzi
+Catapult Software
+Certec EDV GmbH
+CG Automation
+Change Healthcare
+"CIMON, Inc."
+Circontrol
+Cisco
+Clorius Controls A/S
+CodeWrights GmbH
+Cogent Real-Time Systems Inc
+Columbia Weather Systems
+Computrols
+Continental AG
+ControlByWeb
+Cooper Power Systems
+COPA-DATA
+Crestron
+CSWorks
+"Ctek, Inc."
+CyberVision
+"Dahua Technology Co., Ltd"
+Datalogic
+Davolink
+Delta Controls
+Delta Electronics
+Detcon
+Digi International
+Digital Canal Structural
+Digital Electronics
+Digium
+Dr?ger
+EasyIO
+Eaton
+Eaton&amp;#039;s Cooper Power Systems
+Ecava
+Echelon
+ecom instrument
+Elecsys
+Elipse
+Emerson
+Endress+Hauser
+ENEA
+Entes
+ENTTEC
+Environmental Systems Corporation
+Envitech Ltd.
+Equinox
+Ethicon
+Everest Software LLC
+eWON sa
+Exemys
+EZAutomation
+Fatek
+Festo
+Fiat-Chrysler Automobile US LLC
+Fidelix
+Flexera
+Fox-IT
+Fr. Sauter AG
+Fuji Electric
+Fujifilm
+Fultek
+GAIN Electronic Co. Ltd
+Galil
+GarrettCom
+GE
+Gemalto
+General Motors
+GEOVAP
+Geutebr?ck
+gpsd Open Source Project
+Green Hills Software
+"Hangzhou Xiongmai Technology Co., Ltd"
+Hanwha Techwin
+Harman
+Harman-Kardon
+Hetronic
+Hikvision
+Hirschmann
+Honeywell
+Horner Automation
+Hospira
+Hyundai Motor America
+IBC Solar
+IBHsoftec GmbH
+Ice Qube
+ICONICS
+IDenticard
+IDS
+I-GEN
+INDAS
+Inductive Automation
+InduSoft
+Infinite Automation Systems
+IniNet Solutions GmbH
+Innominate
+Innominate Security Technologies
+Intel
+Intellicom
+INTERSCHALT
+Invensys
+INVT Electric
+IOServer
+IP Infusion
+iRZ
+I-SENS Inc.
+ITRON
+Janitza
+JanTek
+Johnson Controls
+Kabona AB
+Kepware Technologies
+KMC Controls
+Korenix
+Koyo
+Kunbus
+Lantech
+LAVA Computer MFG Inc.
+LCDS - Leão Consultoria e Desenvolvimento de Sistemas Ltda ME
+Locus Energy
+LOYTEC
+Lynxspring
+MACTek
+Magnetrol
+Marel
+Martem
+MatrikonOPC
+McAfee
+Measuresoft
+Medtronic
+Meinberg
+Meteocontrol
+Microsoft
+MICROSYS
+Miele Professional
+Mirion Technologies
+Mitsubishi Electric
+Mitsubishi Electric Automation
+Mitsubishi Electric Europe B.V.
+Monroe Electronics
+Morpho
+Motorola Solutions
+Moxa
+mySCADA
+Nari
+National Renewable Energy Laboratory (NREL)
+"Natus Medical, Inc."
+Navis
+NetComm Wireless
+Network Vision
+Newport
+Nordex
+Nortek
+NovaTech
+N-Tron
+NUUO
+NXP
+NXP Semiconductors
+Ocean Data
+OleumTech
+OmniMetrix
+Omron
+Open Automation Software
+Optergy
+Optimalog
+Opto 22
+OPW Fuel Management Systems
+ORing
+Orpak
+OSIsoft
+Other
+Pacom
+PACTware Consortium
+Panasonic
+Panasonic Electric Works Europe AG
+Pangea Communications
+"PDQ Manufacturing, Inc."
+PEPPERL+FUCHS
+Philips
+Phoenix Broadband Technologies LLC
+PHOENIX CONTACT
+Pilz
+Post Oak Traffic Systems
+Prima Systems
+Pro-face
+Progea
+ProMinent
+ProSoft Technology
+PSI GridConnect
+QNX
+Qualcomm Life
+Quest
+RealFlex Technologies
+Red Lion Controls
+Reliable Controls
+Resource Data Management
+Rexroth Bosch
+Rittal
+RLE Nova-Wind
+Roche
+Rockwell Automation
+RuggedCom
+SafeNet
+Saia Burgess Controls
+Samsung
+Satel Iberia
+Sauter
+SCADA Engine
+ScadaTEC
+Scadatec Limited
+Schneider
+Schneider Electric
+Schweitzer Engineering Laboratories
+SearchBlox
+Sensys Networks
+Shanghai OnStar
+SICK
+Sielco Sistemi
+Siemens
+Sierra Wireless
+Silex Technology
+SIMPlight
+Sinapsi
+Sixnet
+SMA Solar Technology AG
+Smiths Medical
+Software Toolbox
+Solar Controls
+SpecView
+SpiderControl
+Sprecher Automation
+St. Jude Medical
+Stryker
+SUBNET Solutions Inc.
+Sunway
+Tec4Data
+Telecrane
+Teledyne DALSA
+Tesla
+Thales DIS
+Tibbo
+"Tollgrade Communications, Inc."
+Trane U.S. Inc.
+Triangle MicroWorks
+"Triangle Research International, Inc."
+Tridium
+Trihedral Engineering Limited
+Tropos
+TURCK
+Unified Automation
+Unitronics
+Universal Robots
+Vecna
+VideoInsight
+VIPA Controls
+Visonic
+Vyaire Medical
+WAGO
+WECON
+Weidmueller
+WellinTech
+Westermo
+Wind River
+xArrow
+Xiongmai
+XZERES
+Yokogawa
+Zebra
